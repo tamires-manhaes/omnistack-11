@@ -15,7 +15,7 @@ tem como objetivo cadastrar ONGs que precisam em seus casos.
  - *npm init*
 - *npm start*
 
-> A aplicação será inicializada e você poderá utilizar através do link **http://localhost:3333**
+> A aplicação será inicializada e você poderá utilizar através do link **http://localhost:3000**
 
 > crie sua ONG e utilize :) 
  
