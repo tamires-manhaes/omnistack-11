@@ -1,7 +1,7 @@
 # Semana OmniStack 11.0
 
 > Nessa semana contruí aplicação de nome **Be the Hero**
-tem como objetivo cadastrar ONGs que precisam em seus casos.
+tem como objetivo cadastrar ONGs que precisam de apoio financeiro em seus casos.
 
 
 # Para utilizar aplicação: 
