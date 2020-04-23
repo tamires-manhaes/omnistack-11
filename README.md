@@ -6,7 +6,7 @@ tem como objetivo cadastrar ONGs que precisam de apoio financeiro em seus casos.
 
 # Para utilizar aplicação: 
 - As dependências dessa aplicação são: 
-	- Node JS
+	- Node JS (versão 13 ou >)
 	- NPM
 - Abra o terminal na pasta "backend" e rode o comando 
 	- *npm install* 
